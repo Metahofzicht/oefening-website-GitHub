@@ -1,6 +1,6 @@
-# My Research Support Project
+# {{ site.title}}
 
 ## Description
-This site gives you an idea on what I do to help research find tools to work with
+{{ site.description }}
 
 go to find more info on me [contacts link](contact.md)
