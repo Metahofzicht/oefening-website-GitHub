@@ -15,3 +15,11 @@ are caused by two trailing spaces at the end of a line.
 - Software
 - Data
 - Library
+
+## Second level heading
+This text contains a [link to Nu.nl](https://nu.nl) and some text that is ~~striken~~
+1. een
+2. twee
+3. drie
+
+![Carpentries logo](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
