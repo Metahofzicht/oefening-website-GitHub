@@ -1,6 +1,6 @@
 # {{ site.title}}
 
-{% include Banner.md %}
+{% include banner.html %}
 ## Description
 {{ site.description }}
 
