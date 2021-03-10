@@ -2,10 +2,6 @@
 layout: default
 ---
 
-
-# {{ site.title}}
-
-
 ## Description
 {{ site.description }}
 
