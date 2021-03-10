@@ -1,6 +1,6 @@
 # {{ site.title}}
 
-![Group Website banner](./images/site_banner.png)
+{% include banner.md %}
 ## Description
 {{ site.description }}
 
