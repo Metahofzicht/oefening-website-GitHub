@@ -1,6 +1,6 @@
 # {{ site.title}}
 
-{% include banner.html %}
+
 ## Description
 {{ site.description }}
 
