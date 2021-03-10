@@ -1,7 +1,8 @@
 ---
 layout: default
+title: "Welcoming Page" 
 ---
-
+# {{ site.title }}
 ## Description
 {{ site.description }}
 
