@@ -1,6 +1,6 @@
 ---
 lesson-example: "https://carpentries.github.io/lesson-example/"
-layout: defalt
+layout: default
 title: "Learning how to build websites with Jekyl"
 ---
 
@@ -12,6 +12,5 @@ The project is led by {{ lead.name }}.
 [See our full team](/about).
 
 More details about the project is on the [About Page](/about)
-go to find more info on me {% include contact.html %}
 
 See some [examples of our work]({{ page.lesson-example }})
