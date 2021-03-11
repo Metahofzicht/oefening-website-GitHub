@@ -3,3 +3,9 @@ title: "Building Websites in Github"
 description: "This research project develops training materials for researchers who want to learn to build project website in github with GitHub Pages."
 
 email: "teamcarp@tudelft.nl"
+twitter: "https://twitter.com/thecarpentries"
+team_members: [
+    {name: "Sarah Becker", role: "project lead", start_date: "2016-02-01"},
+    {name: "Jane Smith", role: "maintainer", start_date: "2018-03-15"},
+    {name: "Albert Hamilton, role: "editor", start_date: "2017-12-01"},
+]
