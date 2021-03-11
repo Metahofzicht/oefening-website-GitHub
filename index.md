@@ -1,8 +1,8 @@
 ---
-layout: default
-title: "Welcoming Page" 
+layout: defalt
+title: "Learning how to build websites with Jekyl"
 ---
-# {{ site.title }}
+
 ## Description
 {{ site.description }}
 
