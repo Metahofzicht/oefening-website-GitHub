@@ -6,5 +6,4 @@ title: "Welcoming Page"
 ## Description
 {{ site.description }}
 
-go to find more info on me [contacts link](contact.md)
-{% include contact.md %}
+go to find more info on me {% include contact.html %}
